@@ -7,6 +7,8 @@ int main()
     char ch;
     double a, b;
     while (1) {
+        printf("Hello User");
+		printf("\n");
         printf("Enter an operator (+, -, *, /), if want to exit press x: ");
         scanf(" %c", &ch);
         // to exit
