@@ -9,6 +9,8 @@ return p;
 }
 void main()
 {
+    printf("Hello User");
+	printf("\n");
     int c,n,p,np;
     printf("n=");
     scanf("%d",&n);
