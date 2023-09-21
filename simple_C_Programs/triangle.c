@@ -22,6 +22,8 @@
 }
 
 	void main(){
+		printf("Hello User");
+		printf("\n");
 		int nbr,l;
 		printf("Nbr = ");
 		scanf("%d",&nbr);
