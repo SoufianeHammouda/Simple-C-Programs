@@ -6,6 +6,8 @@
 		return s;
 }
 	void main(){
+		printf("Hello User");
+		printf("\n");
 		int a,b,i,resu=1,res,j;
 		printf("X = ");
 		scanf("%d",&a);
