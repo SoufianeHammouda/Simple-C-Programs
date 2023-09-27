@@ -16,7 +16,8 @@ char* words[] = {
     "giraffe",
     "hamburger",
     "icecream",
-    "jacket"
+    "jacket",
+    "mouse"
 };
 
 int main() {
