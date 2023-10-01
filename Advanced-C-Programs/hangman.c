@@ -18,6 +18,8 @@ char* words[] = {
     "icecream",
     "jacket",
     "mouse"
+    "keyboard"
+    "movie"
 };
 
 int main() {
